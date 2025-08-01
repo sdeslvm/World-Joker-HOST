@@ -162,7 +162,7 @@ var _STRINGS = {
 	  }
 	},
 	MoreGames: {
-	  Enabled: !0,
+	  Enabled: !1,
 	  Link: "http://www.marketjs.com/game/links/mobile",
 	  NewWindow: !0
 	},
